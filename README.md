@@ -1,8 +1,9 @@
 # Password Generator Web Application with React
 
+<p align="center">
 <img src="./password-generator-ui.png"
-alt="Picture" style="alight-items: center, margin-left: auto, margin-right: auto, width:
-70%" />
+alt="Picture"  width="400"/>
+</p>
 
 ## Description:
 
